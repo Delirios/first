@@ -1,0 +1,4 @@
+CherryPy==14.0.0
+requests==2.18.4
+telepot==12.5
+pyTelegramBotAPI==3.5.2
